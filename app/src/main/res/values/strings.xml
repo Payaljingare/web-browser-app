@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Google Search API</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_search">Search</string>
+    <string name="input_hint_search">Search…</string>
+    <string name="msg_search_query_empty">Search query can not be empty.</string>
+    <string name="fragment_title_all">All</string>
+    <string name="fragment_title_images">Images</string>
+    <string name="fragment_title_videos">Videos</string>
+    <string name="msg_link_not_working">This link is not working.</string>
+    <string name="msg_results_loading">Results are loading…</string>
+    <string name="title_search_results">Search Results:</string>
+    <string name="title_search_history">Search History</string>
+    <string name="msg_delete_all_search_history">Delete all search history</string>
+    <string name="msg_are_you_sure_to_delete_all_search_history">Are you sure to delete all search history?</string>
+    <string name="btn_yes">Yes</string>
+    <string name="msg_there_is_nothing_to_delete">There is nothing to delete.</string>
+    <string name="btn_search_history">Search History</string>
+</resources>
